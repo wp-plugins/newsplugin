@@ -13,16 +13,16 @@ The ultimate FREE news plugin for WordPress. Create custom newsfeeds and watch t
 
 [NewsPlugin](http://newsplugin.com/) is the ultimate FREE news plugin for WordPress. Create custom newsfeeds and watch the fresh relevant news headlines appear on your website. Choose keywords, number of articles and other settings, put the feed wherever you want using widgets or shortcodes. You can always shape the news right from your website, remove unwanted articles or star the good ones.
 
-=Maximize your readership=
+= Maximize your readership =
 Watch fresh relevant news headlines from the most reputable sources appear automatically on your website or select and publish them manually. You'll gain an instant audience with targeted interest! Grow readership and watch your content take off!
 
-=Want news for your website?=
+= Want news for your website? =
 Our news is aggregated from thousands of news sources and reviewed by our experienced editorial team. Our leading real-time news index uses state-of-the-art technology, online publishing industry standards and a great personal touch.
 
-=How it works=
+= How it works =
 Watch the video to better understand how you can benefit from using the NewsPlugin. Visit [NewsPlugin.com](http://www.newsplugin.com).
 
-=Current features=
+= Current features =
 You can tap into more than 250 million articles with 100,000 added each day and display newsfeeds customized by you on your website using WordPress widgets or shortcodes.
 
 * Set keywords
@@ -37,13 +37,13 @@ You can tap into more than 250 million articles with 100,000 added each day and 
 * Show only headlines from last 24 hours, last 7 days etc.
 * Feed headlines automatically or use manual publishing mode
 
-=More features coming soon=
+= More features coming soon =
 We're always innovating and improving and we've got lots of plans for the NewsPlugin. Check out some of the upcoming features we're working on right now.
 
 * Syndicate your posts using the SyndicateME
 * Get advanced stats about your syndicated content using the SyndicationTRACKER
 
-=New features=
+= New features =
 We're always improving the NewsPlugin based on your feedback and WordPress development. Visit [NewsPlugin.com](http://newsplugin.com/) to get notified of new developments.
 
 == Installation ==
