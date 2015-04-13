@@ -3,7 +3,7 @@ Contributors: newsplugin.com
 Tags: news, news plugin, news feed, news feeds, newsfeed, newsfeeds, news syndication, shortcode, shortcodes, widget, widgets, widget area, widget areas
 Requires at least: 3.9
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,6 +74,12 @@ If you need additional help [visit the FAQ, including a video walkthrough](http:
 8. You can remove unwanted headlines or star the good ones right from your site.
 
 == Changelog ==
+
+= 1.0.1 =
+Release Date: April 13, 2015
+
+* Minor improvements.
+
 = 1.0 =
 Release Date: April 9, 2015
 
