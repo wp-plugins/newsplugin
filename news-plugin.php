@@ -504,7 +504,22 @@ class News_Plugin_Widget extends WP_Widget {
         if ( $id > 0 ) {
             $this->_set( $id ) ;
         }
-    
+
+        $key = get_option( 'news_plugin_api_key' ) ;
+        if ( empty( $key ) ) {
+            if ( $this->can_manage() ) {
+                ?>
+                <p>
+                Your feed is currently inactive.
+                Please enter your Activation Key on the
+                <a href="<?php echo admin_url( 'admin.php?page=news-plugin-settings' ) ?>">NewsPlugin Settings</a>
+                page first.
+                </p>
+                <?php
+            }
+            return ;
+        }
+
         if ( $this->can_manage() ) {
             $this->manage( $opts ) ;
         }
@@ -1006,7 +1021,7 @@ class News_Plugin {
 				<?php do_settings_sections( $this->plugin_options_key ); ?>
 				<?php submit_button(); ?>
 			</form>
-            <?php } else if($tab === $this->shortcode_settings_key) { ?>
+            <?php } else if($tab === $this->shortcode_settings_key && ! empty( $key ) ) { ?>
             <table id="shortcodeTable" class="form-table">
         	<tr>
             	<th scope="row">
