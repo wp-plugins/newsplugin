@@ -3,7 +3,7 @@ Contributors: newsplugin.com
 Tags: news, news plugin, news feed, news feeds, newsfeed, newsfeeds, news syndication, shortcode, shortcodes, widget, widgets, widget area, widget areas
 Requires at least: 3.9
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,7 +62,24 @@ If you need additional help [visit the FAQ, including a video walkthrough](http:
 == Frequently Asked Questions ==
 If you need additional help [visit the FAQ, including a video walkthrough](http://newsplugin.com/faq/).
 
+== Screenshots ==
+
+1. First of all, activate the NewsPlugin.
+2. Then you can create your newsfeed by generating shortcode. Choose the name, number of headlines, keywords and other settings.
+3. Copy your shortcode...
+4. ...and paste it into a page or a post.
+5. If you want your newsfeed to appear in sidebar, it's easier to use the NewsPlugin widget.
+6. An example of a newsfeed on a page.
+7. If you are logged in as admin, you see the "Edit Newsfeed Mode" link.
+8. You can remove unwanted headlines or star the good ones right from your site.
+
 == Changelog ==
+
+= 1.0.1 =
+Release Date: April 13, 2015
+
+* Minor improvements.
+
 = 1.0 =
 Release Date: April 9, 2015
 
